@@ -6,13 +6,41 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/officialahk.https://github.com/officialahk&left_text=Profile%20Views"  />
+</div>
+
+###
+
 <br clear="both">
 
 <p align="left">🔭 I’m currently working in Systems Ltd - PartnerlinQ that stands out as the premier supply chain platform that redefines B2B connectivity, decision intelligence and business partner collaboration<br>    👯 I’m looking to collaborate on Open Source Contributions<br>    📝 I regularly read articles on Medium for tech updates<br>    💬 Ask me about anything regarding JavaScript, Angular, NodeJs<br>    📫 How to reach me abdul.haseeb461@outlook.com<br>    📄 Know about my experiences Linkedin<br>    ⚡ Fun fact is I prefer tab over spaces abd I love to solve Rubik's Cube</p>
 
 ###
 
-<h2 align="left">My Tech Stacks</h2>
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahkofficial/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/officiallahk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://medium.com/@officialahk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="abdul.haseeb461@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -44,34 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="60" alt="bitbucket logo"  />
-</div>
-
-###
-
-<h2 align="left">Reach out to me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahkofficial/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/officiallahk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <a href="https://medium.com/@officialahk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="abdul.haseeb461@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/officialahk.https://github.com/officialahk&"  />
 </div>
 
 ###
