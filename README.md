@@ -89,7 +89,7 @@
 <summary>Expand to view Portfolio</summary>
 
 <!--BigParser-->
-> [!IMPORTANT]
+
 > <h4>BIGPARSER</h4>
 > <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/officialahk/officialahk/main/svg/bp.png" /></div><br>
 > Description:
@@ -106,7 +106,6 @@
 .
 
 <!--Waseet-->
-> [!IMPORTANT]
 > <h4>Waseet Emirates</h4>
 > <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/officialahk/officialahk/main/svg/waseet.png"/></div><br>
 > Description:
@@ -122,7 +121,6 @@
 .
 
 <!--Complaint portal-->
-> [!IMPORTANT]
 > <h4>Complaint Portal</h4>
 > <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/officialahk/officialahk/main/svg/cp.png"  /></div><br>
 > Description:
@@ -141,7 +139,6 @@
 .
 
 <!--Winvested-->
-> [!IMPORTANT]
 > <h4>WINVESTED</h4>
 > <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/officialahk/officialahk/main/svg/winvested.png" /></div><br>
 > Description:
@@ -160,7 +157,6 @@
 .
 
 <!--Al Halal Market-->
-> [!IMPORTANT]
 > <h4>Al Halal Market</h4>
 > <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/officialahk/officialahk/main/svg/halal.png" /></div><br>
 > Description:
@@ -179,7 +175,6 @@
 .
 
 <!--Garage Desks-->
-> [!IMPORTANT]
 > <h4>GarageDesks</h4>
 > <div style="justify-content: center;display: flex;"><img width="200" height="100" src="https://raw.githubusercontent.com/officialahk/officialahk/main/svg/gd.png" /></div><br>
 > Description:
