@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working in Systems Ltd - PartnerlinQ that stands out as the premier supply chain platform that redefines B2B connectivity, decision intelligence and business partner collaboration<br>    👯 I’m looking to collaborate on Open Source Contributions<br>    📝 I regularly read articles on Medium for tech updates<br>    💬 Ask me about anything regarding JavaScript, Angular, NodeJs<br>    📫 How to reach me abdul.haseeb461@outlook.com<br>    📄 Know about my experiences Linkedin<br>    ⚡ Fun fact is I prefer tab over spaces abd I love to solve Rubik's Cube</p>
+<p align="left">🔭 I’m currently working in Systems Ltd - PartnerlinQ that stands out as the premier supply chain platform that redefines B2B connectivity, decision intelligence and business partner collaboration<br>    👯 I’m looking to collaborate on Open Source Contributions<br>    📝 I regularly read articles on Medium for tech updates<br>    💬 Ask me about anything regarding JavaScript, Angular, NodeJs<br>    📫 How to reach me abdul.haseeb461@outlook.com<br>    📄 Know about my experiences Linkedin<br>    ⚡ Fun fact is I prefer tab over spaces & I love to solve Rubik's Cube</p>
 
 ###
 
