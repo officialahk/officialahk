@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Principal Engineering Consultant | Tech Lead | Angular | JavaScript | Typescript | Advisory Software Operations | Tech Consultant | Tech Trainer</h4>
+<h4 align="center">Principal Engineering Consultant | Tech Lead | Expert Vetted Angular Developer | JavaScript | Typescript | Advisory Software Operations | Tech Consultant | Tech Trainer</h4>
 
 ###
 
